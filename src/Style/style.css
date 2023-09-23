@@ -1,0 +1,36 @@
+.inBtn{
+    width: 3vw;
+    height: 3vw;
+}
+
+.outPut{
+    width: 20vw;
+    height: 6vw;
+}
+
+.topBtn{
+    width: 1.7%;
+    position: absolute;
+    top: 10%;
+    left: 41.5%;
+    padding: 1px;
+    outline-width: 0%;
+    border-width: 0;
+    
+    
+}
+
+.extraBtn{
+    width: 3vw;
+    height: 3vw;
+}
+
+#extra{
+    background-image: linear-gradient(to right, #cf3ee1 , #9834ba);
+    padding-bottom: 5px;
+    padding-left: 2px;
+}
+
+#mainPortion{
+    background-color: #15004f;
+}
